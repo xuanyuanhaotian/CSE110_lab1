@@ -1,7 +1,8 @@
 ![image](pi.jpg)
 # Yunhao Du
 **I am a cs major student at UCSD now.**
-**My motto** 
+
+*My motto* 
 > Look before you leap.
 
 
